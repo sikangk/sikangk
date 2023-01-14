@@ -1,8 +1,9 @@
-<div align="center">
-  
+<div style="display: flex;" align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikangk&langs_count=8)](https://github.com/sikangk/github-readme-stats)
 
-  ![Sikang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikangk&show_icons=true&theme=radical)
+<!--   ![Sikang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikangk&show_icons=true&theme=radical) -->
+  
 </div>
 
 
